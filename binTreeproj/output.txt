@@ -1,0 +1,200 @@
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+levis30-
+Id: 1111, Family: Kehat age: 20
+Id: 2222, Family: Merari age: 15
+Id: 3333, Family: Gershon age: 10
+Id: 4444, Family: Kehat age: 5
+Id: 5555, Family: Merari age: 0
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+wrong choose please choose again.
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+Id: 1111, Family: Kehat age: 35
+Id: 2222, Family: Merari age: 30
+levis30-
+Id: 3333, Family: Gershon age: 25
+Id: 4444, Family: Kehat age: 20
+Id: 5555, Family: Merari age: 15
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please insert Levi family (0 - Gershon, 1 -Kehat, 2- Merari):
+size of Kehat family is: 2, size of all levi is: 5
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+Id: 4444, Family: Kehat age: 30
+Id: 3333, Family: Gershon age: 35
+Id: 2222, Family: Merari age: 40
+Id: 1111, Family: Kehat age: 45
+levis30-
+Id: 5555, Family: Merari age: 25
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of task (0 - preorder, 1- inoreder, 2 - postorder):
+Merari family take conectors
+Gershon family take wraps
+Kehat family take the best important
+Merari family take conectors
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter Levi id:
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+Id: 4444, Family: Kehat age: 45
+Id: 5555, Family: Merari age: 40
+levis30-
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of task (0 - preorder, 1- inoreder, 2 - postorder):
+Merari family take conectors
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+levis30-
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
+please enter order of print (0 - preorder, 1- inoreder, 2 - postorder):
+levis 30+
+levis30-
+
+please choose action:
+(1) Add Levi
+(2) Remove Levi
+(3) Task All
+(4) Print All
+(5) Size of Levi family
+(6) Exit
